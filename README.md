@@ -1,7 +1,3 @@
-Perfect! I'll help you create a complete professional GitHub repository. Here's everything you need:
-
-## 1. Description
-
 Multimodal LSTM for Cross-Participant Emotion Recognition using AMIGOS Dataset - EEG, ECG, and GSR signals with advanced deep learning techniques for valence, arousal, and transition detection.
 
 
